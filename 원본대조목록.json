@@ -1,0 +1,1022 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 40,
+    "sha256": "e3424fb8c82bacd97486c6df8865442cad5966be590f38e033240c039a3e154c"
+  },
+  {
+    "path": ".vscode/extensions.json",
+    "bytes": 58,
+    "sha256": "4bc862f422ae4bf421207388566f1f2af3c6a1dfb0d4f53953696e56909dcfd2"
+  },
+  {
+    "path": ".vscode/settings.json",
+    "bytes": 195,
+    "sha256": "c0f94da5d63c3bc2b62c9c50009a3e20c78fc4a242c635abb11df2ca8c68dcee"
+  },
+  {
+    "path": ".vscode/tasks.json",
+    "bytes": 765,
+    "sha256": "e801a651bcc680e582295d4bb4904ad87a1b9567e1fbb3b816822cfcba85ceaf"
+  },
+  {
+    "path": "PROJECT_INFO.json",
+    "bytes": 420,
+    "sha256": "26d15150dd2beaf24c98f7c378cf9a3b58f8d298b89c9bc6616c9ab133e61d71"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3445,
+    "sha256": "78719d6d300b72fd5282f09e81e20f0b9f207c90c4aa9b17c1995bbcbb5a05e0"
+  },
+  {
+    "path": "agreement.html",
+    "bytes": 6657,
+    "sha256": "4c464c89fddcb3cc6c72f9761cba7e57cc8191125ebf0ed456080952c8740a54"
+  },
+  {
+    "path": "assets/agreement.js",
+    "bytes": 6158,
+    "sha256": "9851eacb57fc8ab1f3e8a86309e7b313925bde116b5eae86fa47c1fc2c53f4fc"
+  },
+  {
+    "path": "assets/app.js",
+    "bytes": 22175,
+    "sha256": "f3f0c7c0b2e51cada7e3510105c7d1cb8237b87329779e53f69b9f8fd4839c03"
+  },
+  {
+    "path": "assets/auth.js",
+    "bytes": 8335,
+    "sha256": "a78c66dff73ee2ab38236033c02df9fad7b7b5917faeabe7e9e19ae7c383d5cf"
+  },
+  {
+    "path": "assets/awards.js",
+    "bytes": 1893,
+    "sha256": "22bcd2d8f53a5e93a4381db50b90e513fa0ad39f3740b202a4885976f9273797"
+  },
+  {
+    "path": "assets/book-prices.js",
+    "bytes": 1485,
+    "sha256": "6b040e6475d9d7ebfa8c54ab918ef39b5c7ba18e38ba70b8d802ba23d9d40f9b"
+  },
+  {
+    "path": "assets/brand-logo.svg",
+    "bytes": 543,
+    "sha256": "0c6bb6a5fad31f774faaa2819d69f25d234dbf8338c6d2ac972621adf478cb7a"
+  },
+  {
+    "path": "assets/carousel.js",
+    "bytes": 2181,
+    "sha256": "bbccdde98c8857f2543b3625a000858a2fa4cb5c701f5a560a5048b2fa94957a"
+  },
+  {
+    "path": "assets/chat-risk-features.js",
+    "bytes": 4013,
+    "sha256": "fa16d8d629cb7310e3cacd463b360f3486cfc1bf44d1ec6e410f96ace2300c29"
+  },
+  {
+    "path": "assets/chat-risk.js",
+    "bytes": 4464,
+    "sha256": "9b9e5176ff4f4329a26bbd2e1813a13f5587a6e293747f3c206271a7294f18af"
+  },
+  {
+    "path": "assets/common.js",
+    "bytes": 7968,
+    "sha256": "cd9321b76063616fda3fe2a9f50ee0d02aa406447182fbec8d93967f1da483b9"
+  },
+  {
+    "path": "assets/login.js",
+    "bytes": 1985,
+    "sha256": "5f58f2252bbb0ae61d7713f3e9067b85bec7899c31136d0d76b2f5add3dddb95"
+  },
+  {
+    "path": "assets/pages.js",
+    "bytes": 14868,
+    "sha256": "5c355bda2df8d9b052fdafa23d01c507d28e60d79241a3a10736abcf460fbe18"
+  },
+  {
+    "path": "assets/price-risk.js",
+    "bytes": 1480,
+    "sha256": "878e753c77204302a4e586a7a6b9e1bf72a37a30af1a9a17a994d43fcf493112"
+  },
+  {
+    "path": "assets/product-deletion.js",
+    "bytes": 1444,
+    "sha256": "faa05325ac4f5d64848da9c8443cc79b0a857282955dee28b65c34619de37e1a"
+  },
+  {
+    "path": "assets/product.js",
+    "bytes": 3586,
+    "sha256": "b2bfe447a8c58eba6b5bd79ae0e3dcb4e457a12cbe00ad9bc7c1993481e6bf89"
+  },
+  {
+    "path": "assets/receipt.js",
+    "bytes": 1546,
+    "sha256": "962433472bafbcfcece2114d9a4cde1246717ccb819a8ca62bbdbd085dba04fd"
+  },
+  {
+    "path": "assets/reference-catalog.js",
+    "bytes": 4540,
+    "sha256": "8c7c6dbed3c92f851ff795a431231a0b7e3fd8457d70280211c283700dc0445e"
+  },
+  {
+    "path": "assets/reference-prices.js",
+    "bytes": 692,
+    "sha256": "dad5aea4131a1785de01efc37c0f3142e0edd257a591b576e57b59f4a6fa8395"
+  },
+  {
+    "path": "assets/sample-catalog.js",
+    "bytes": 9360,
+    "sha256": "de9b0e5ee548d63dfb03ce9d26e5aba0d2425fcaa3faa3e9b2cba76628e735f4"
+  },
+  {
+    "path": "assets/sample-products/1.png",
+    "bytes": 1886665,
+    "sha256": "b2099a29961c07e3396287a61d03153db28efc17db8094009bfd920e5d02775a"
+  },
+  {
+    "path": "assets/sample-products/1.svg",
+    "bytes": 690,
+    "sha256": "32d4abe1c7a1e527004186162f3bedd4ed283d588577f4528643f0ee6fbdb940"
+  },
+  {
+    "path": "assets/sample-products/10.png",
+    "bytes": 2144192,
+    "sha256": "d013268708dc89ff0e862bdd1a4761664142d474688e005b17b1a983e41923d5"
+  },
+  {
+    "path": "assets/sample-products/10.svg",
+    "bytes": 643,
+    "sha256": "509568860d7faa9ee1b5389a18158fe21e3aa5bec858c24e9e0ab217ea7ba6da"
+  },
+  {
+    "path": "assets/sample-products/11.png",
+    "bytes": 2122301,
+    "sha256": "1b37ebea13a8d1afe2d50bdbd86681253582de705a29dafc8837c4c8dcc29b6e"
+  },
+  {
+    "path": "assets/sample-products/11.svg",
+    "bytes": 757,
+    "sha256": "36ab8851b3e74f521402cec4576618f50116113cca1aaedcca8b8b968b0a2b0b"
+  },
+  {
+    "path": "assets/sample-products/12.png",
+    "bytes": 2321304,
+    "sha256": "bf4e5ec5a7542b5236d3f30c2dbb5b032f5717b88f29fb8cf5f33bcac3598fec"
+  },
+  {
+    "path": "assets/sample-products/12.svg",
+    "bytes": 666,
+    "sha256": "6b1c5969a83bd77171d8ab42305c775c60d2a8a1f4c5940caa2e6faa46658313"
+  },
+  {
+    "path": "assets/sample-products/13.png",
+    "bytes": 1666992,
+    "sha256": "d049c7fe5bdb62c5072aa493fdea089b76f13dbc9d280b3f8d32ad0f7036ddd4"
+  },
+  {
+    "path": "assets/sample-products/13.svg",
+    "bytes": 687,
+    "sha256": "08200e88578d2337779cdf3c79cb6580edbeb5e3aaf790902a07864579ac4540"
+  },
+  {
+    "path": "assets/sample-products/2.png",
+    "bytes": 2343467,
+    "sha256": "2d14d5e70444aa2799c2d7683e647b7f640f47f9c583521341007a7db7eb668d"
+  },
+  {
+    "path": "assets/sample-products/2.svg",
+    "bytes": 634,
+    "sha256": "f21d3cf05e417d973e5c2074637e299bad9302aaf8a50bfb7a22faad48dcc7a5"
+  },
+  {
+    "path": "assets/sample-products/4.png",
+    "bytes": 1932737,
+    "sha256": "f75991ab345419c463a8d93e9d69240ba9a1927dbed66fbcb6262e9f4f4a42f7"
+  },
+  {
+    "path": "assets/sample-products/4.svg",
+    "bytes": 690,
+    "sha256": "15d16fa392fc7e222e3a8617f75f9824821c1285522441050fd1e2055b33a604"
+  },
+  {
+    "path": "assets/sample-products/5.png",
+    "bytes": 1915039,
+    "sha256": "cd8814b7db1d67e70404dd4e93d37248f829a4741be88a6695cafea547f4d464"
+  },
+  {
+    "path": "assets/sample-products/5.svg",
+    "bytes": 690,
+    "sha256": "307b07cb20073d1bb378475d088e10a53a0e3cbabdd834a2c0baab1002333958"
+  },
+  {
+    "path": "assets/sample-products/6.png",
+    "bytes": 2084395,
+    "sha256": "cc28e99a68a58c7d6a5a02b9336fe23250bdf09e000152293238c77f43490f97"
+  },
+  {
+    "path": "assets/sample-products/6.svg",
+    "bytes": 701,
+    "sha256": "dc25d981eac7d4971a67d286759b8e6c9ca297b6038d1a24a943e77308c27889"
+  },
+  {
+    "path": "assets/sample-products/7.png",
+    "bytes": 2158370,
+    "sha256": "a6e65af1eb2d2610a38bcafe532c83d98df7f96a88ea3687107f1dc7b370dfba"
+  },
+  {
+    "path": "assets/sample-products/7.svg",
+    "bytes": 678,
+    "sha256": "f403027300a6c04b0b58f6d89fdb1a99327fc0ea7db1ff2fca49e3349a9f86b1"
+  },
+  {
+    "path": "assets/sample-products/8.png",
+    "bytes": 2039404,
+    "sha256": "2e1bf0a388f2b974cfa068589a335f35f751b4721cefb282a359d6e598818ccc"
+  },
+  {
+    "path": "assets/sample-products/8.svg",
+    "bytes": 1273,
+    "sha256": "01fc110abd3c33233cf81ba440c6c866d53ae38662f7e56345e2c9f968153a1a"
+  },
+  {
+    "path": "assets/sample-products/9.png",
+    "bytes": 2047624,
+    "sha256": "be04af502d89020950069291e779f3dfc4f446b96f33ff7c15f78f5b34bd5ec7"
+  },
+  {
+    "path": "assets/sample-products/9.svg",
+    "bytes": 752,
+    "sha256": "205ac5e0de982ecd24fc32b1625a7a96e66394491584fe5e3bf0b3252f9ef901"
+  },
+  {
+    "path": "assets/sample-products/사진안내.md",
+    "bytes": 3024,
+    "sha256": "d92beb6713befc6f1a9129184656b35d4b87509c42267a05076b0595fded75e0"
+  },
+  {
+    "path": "assets/signup.js",
+    "bytes": 3758,
+    "sha256": "809068f2118bb3dc9ee5a8faa12e2dcdc3bc4da5ad14db0010ca1b4f86ee384c"
+  },
+  {
+    "path": "assets/student-ocr.js",
+    "bytes": 4591,
+    "sha256": "d50436cb5a2d6ca1eabe6cc6fb0fbc99055ad2da30f37ca618892683d6177ed5"
+  },
+  {
+    "path": "assets/styles.css",
+    "bytes": 19557,
+    "sha256": "1d22e65cf66a144204d5bd128685c2630c73fbaebaa9af25c0c8e771c1e95d9d"
+  },
+  {
+    "path": "assets/text-risk.js",
+    "bytes": 1500,
+    "sha256": "71a4908b302a6a2e01182569194794e886d0ddbba9ac432e872b5cd3f3f96df0"
+  },
+  {
+    "path": "assets/trade-flow.js",
+    "bytes": 1652,
+    "sha256": "4439c27026c91a2dd5c7207b4220f5f06fe743d99411dc4d41517f2f38c9a7ed"
+  },
+  {
+    "path": "assets/wonju-schools.js",
+    "bytes": 5883,
+    "sha256": "edf6f01e1a8ef80c9403f9b2b21390678cfc05f680494b8d28f4c15b1b1670fd"
+  },
+  {
+    "path": "auth.html",
+    "bytes": 7449,
+    "sha256": "e336f6c1dde190bff3d3a45c2bcd5f63c9436ff8e877cb47f3f47f116b53cb66"
+  },
+  {
+    "path": "data/price-training-data.csv",
+    "bytes": 27377,
+    "sha256": "d3ee7a438f08e88f24e402d82faeda6d561848e4bfdceb0cc6d45bd3a9271f13"
+  },
+  {
+    "path": "data/reference-products.json",
+    "bytes": 5266,
+    "sha256": "568ac611098cc48bd73d088c46a2f55c82faab54bb8dc82fee996d703dd6eae3"
+  },
+  {
+    "path": "data/synthetic-chats.csv",
+    "bytes": 3496887,
+    "sha256": "54b16549194e0a884a439a09724ee2353ea0bc175a7f56e610589dd9bbef619e"
+  },
+  {
+    "path": "data/wonju-schools.json",
+    "bytes": 7057,
+    "sha256": "376912b4c21144ba5260e0e3d6d8518b841b7858146cee07edfa5c5a5ea9abe3"
+  },
+  {
+    "path": "docs/01-회원가입.md",
+    "bytes": 598,
+    "sha256": "3a0092aa42158e48b924f7190c33924876f11f0045f8d64acae69f9db60f2fe4"
+  },
+  {
+    "path": "docs/02-로그인.md",
+    "bytes": 582,
+    "sha256": "39667cdabb9266d6a7eb091f1ff45e1df8d823c11226c92e88a624ad11a6a47f"
+  },
+  {
+    "path": "docs/03-학교정보입력.md",
+    "bytes": 656,
+    "sha256": "18901eb743095b545df5d59dc896913b9ab5acd40b9f3cd31e6043fc1869edfe"
+  },
+  {
+    "path": "docs/04-메인페이지.md",
+    "bytes": 567,
+    "sha256": "f497a63473939b3fba48da25a2ff4c69596e1223767b6190f246c4d1ea7013b5"
+  },
+  {
+    "path": "docs/05-제품등록.md",
+    "bytes": 741,
+    "sha256": "bb8b13268f2f2bb60e1abebdd73dabed090d8fa4096f282856364b9e7cd84508"
+  },
+  {
+    "path": "docs/06-안심약속서.md",
+    "bytes": 5290,
+    "sha256": "47d8aaff976c762b87cdedc2de6ab858578b5cc139134c592889703597967d77"
+  },
+  {
+    "path": "docs/07-신고접수.md",
+    "bytes": 634,
+    "sha256": "bcd7996fde80f868fdbbfaffe4c46bf4b31a7a6f3309cefc406dd04a2d703ed0"
+  },
+  {
+    "path": "docs/08-상품삭제.md",
+    "bytes": 2172,
+    "sha256": "4564b6adce21cb85c5b37a537e73130b977498ea130c204c43ee6b1fbf8a18d0"
+  },
+  {
+    "path": "docs/09-안심거래확인증.md",
+    "bytes": 3103,
+    "sha256": "0c1c7ead7982c724197f9b49e6f9dcf49c5524e9a85528caa8f7450f3a1cda44"
+  },
+  {
+    "path": "docs/10-상장수여.md",
+    "bytes": 2549,
+    "sha256": "fa044a9ec65393b86c2755fd628458f138df257536dcee18011dd0aab264faed"
+  },
+  {
+    "path": "docs/11-가상거래잔액.md",
+    "bytes": 640,
+    "sha256": "e3689aa1a929267f60e3a257df4d5ac4b4e6701b469d277edf415abb8079b2fd"
+  },
+  {
+    "path": "docs/12-학생증OCR.md",
+    "bytes": 1147,
+    "sha256": "889814ec73f7d52ea9834872512209de845a01e2f31bfbaceca8f3c2dac9a48f"
+  },
+  {
+    "path": "docs/13-채팅위험경고.md",
+    "bytes": 3733,
+    "sha256": "3cee49c8b1533c041ed95268596cfea8584c562ece7eff3c721ada22fe9297b8"
+  },
+  {
+    "path": "docs/14-가격주의.md",
+    "bytes": 4626,
+    "sha256": "7edca4fd5052faeff3f969f6363527f71805243635ca00966afb2ede64d90bc5"
+  },
+  {
+    "path": "docs/15-GitHubPages배포.md",
+    "bytes": 7592,
+    "sha256": "9e710e56b0f78203e5e172a012f44be0d6a773511f49a1648b812656f538252f"
+  },
+  {
+    "path": "docs/16-거래완료상품표시.md",
+    "bytes": 4134,
+    "sha256": "e7b056ab7da4b6573deaac5f0e6807ce5c55f3bb75190269226b991ee1b0a73a"
+  },
+  {
+    "path": "docs/README.md",
+    "bytes": 943,
+    "sha256": "91da48d64a5e6686efc41406510893b08d6a7c4344709592be337fbe4d71cbf0"
+  },
+  {
+    "path": "index.html",
+    "bytes": 27778,
+    "sha256": "4d7e48597bca8297dee82232796b3ab1703d505d448a54879341432915abfdaa"
+  },
+  {
+    "path": "login.html",
+    "bytes": 5860,
+    "sha256": "47ddef07895a567704c9e01a67940a08ffdb35eef625670bb8d43e21353caaf5"
+  },
+  {
+    "path": "models/chat-risk-forest.js",
+    "bytes": 253985,
+    "sha256": "42b9253deff1532478e7db3b5f0471b922192a85d8ff677257488be1c40c3c58"
+  },
+  {
+    "path": "models/chat-risk-forest.json",
+    "bytes": 253888,
+    "sha256": "7de9e0273a777193daac57082f9976dceb16647ce5b7fd58f46df29a26d0fb0c"
+  },
+  {
+    "path": "models/chat-risk-preview.png",
+    "bytes": 42109,
+    "sha256": "42d53fbb3237274b172824086c41d017490eebe539c888382b9d56dbe5bd10e1"
+  },
+  {
+    "path": "models/evaluation.json",
+    "bytes": 2516,
+    "sha256": "551eb879e09de7a0f6b2b7dbc3bbd702a5aa801223e0c2e2cf7e4c76b298fc19"
+  },
+  {
+    "path": "models/parity-fixtures.json",
+    "bytes": 226833,
+    "sha256": "f9b3b70adb29bde48af7ae98a54fa68985688db8d0819b9e32480fc99af087fa"
+  },
+  {
+    "path": "models/price-evaluation.json",
+    "bytes": 1777,
+    "sha256": "d5919467aa17bb26c1ade715e49167e450e810461ae61b6909b010de5e6435fa"
+  },
+  {
+    "path": "models/price-parity-fixtures.json",
+    "bytes": 2999,
+    "sha256": "668487a19dadc75e848f6733eefbda188ae3df5afeb35aea717bb600742283b4"
+  },
+  {
+    "path": "models/price-risk-model.js",
+    "bytes": 19152,
+    "sha256": "d34341bf4b88949393fa637ca8e1fa4de8ebae3290ca4d949565b3f06c3a4d7d"
+  },
+  {
+    "path": "models/price-risk-model.json",
+    "bytes": 19122,
+    "sha256": "41cb239d809378f4be82f5aa4d9b31877060333f34c06c822e349c09196673e1"
+  },
+  {
+    "path": "ocr-samples/ocr-fast-preview.png",
+    "bytes": 49701,
+    "sha256": "be1bad04d80fa02a902e059ee98249cc1496ff1777bb563476772db4f3fa6408"
+  },
+  {
+    "path": "ocr-samples/ocr-offline-success.png",
+    "bytes": 49682,
+    "sha256": "51d98e4d7437c464c35e8ab2e1d700cc11ca90add36ce925f002c8e0557ab361"
+  },
+  {
+    "path": "ocr-samples/ocr-screen-preview.png",
+    "bytes": 49430,
+    "sha256": "46cf91621420a9c9c7951043588f9fba892ce555ee6df7faea397d21eba4d489"
+  },
+  {
+    "path": "ocr-samples/sample-image.js",
+    "bytes": 91802,
+    "sha256": "1df8025bf7ee3eff083efcd6b667d6222730df6e4d190e9f8a9ad1a02b6885e0"
+  },
+  {
+    "path": "ocr-samples/sample-ocr-result.json",
+    "bytes": 513,
+    "sha256": "d89d72cc50b1c9c4970871c429399940b3cd0d1791f7582e0b4fc40d8b8d7e35"
+  },
+  {
+    "path": "ocr-samples/speed-test-result.json",
+    "bytes": 420,
+    "sha256": "082dfb509a00f0f6400b8a7347c865cbea4f3d1b4c96566ff48587766421d954"
+  },
+  {
+    "path": "ocr-samples/사용방법.md",
+    "bytes": 950,
+    "sha256": "3d0245057d9a3bc59e103e23986b59e8908743db534b97b71d6e618c4c7c44fb"
+  },
+  {
+    "path": "ocr-samples/서울고등학교_OCR_테스트용.png",
+    "bytes": 66620,
+    "sha256": "25aa6805df0a9410fd5bdcc32cd76ec1f0a7f28e45b24f5dc7e7d49218485ceb"
+  },
+  {
+    "path": "ocr-samples/예상인식결과.json",
+    "bytes": 264,
+    "sha256": "626bfe791227933c9dcc34553ded316c981ac3a1933240efebdaeea917a0a3f2"
+  },
+  {
+    "path": "ocr-samples/최종실행확인.png",
+    "bytes": 49682,
+    "sha256": "51d98e4d7437c464c35e8ab2e1d700cc11ca90add36ce925f002c8e0557ab361"
+  },
+  {
+    "path": "ocr-samples/학생증_OCR_테스트용.png",
+    "bytes": 68810,
+    "sha256": "f7c4a5890f1f655b083909bbfe7a26efedfb4a83a5bb25486748287613998cf9"
+  },
+  {
+    "path": "package.json",
+    "bytes": 276,
+    "sha256": "dd32fe55bbfddd6fbb8437466c1f54cdea82778ae396ed2398235893ed167d2d"
+  },
+  {
+    "path": "product.html",
+    "bytes": 5937,
+    "sha256": "f3c4cfaf67ba28a4a22841f0dc9d239b3b0dc722be105c515912dd18090555f9"
+  },
+  {
+    "path": "receipt.html",
+    "bytes": 4998,
+    "sha256": "2760d1a0d226b98dda126ae71033bddf28b4b819a49e9e4012f8392bd3022b63"
+  },
+  {
+    "path": "reference/original.html",
+    "bytes": 48560,
+    "sha256": "266bbd33529f4707866c1db015e4c5b07b31a62aaa011cca5ec88feaaa7841e7"
+  },
+  {
+    "path": "signup.html",
+    "bytes": 7353,
+    "sha256": "a0492ab4c35523ef9d25191487c9a9860dcf9d17dcf6cb4966d21387f9be4a50"
+  },
+  {
+    "path": "tests/README.md",
+    "bytes": 1040,
+    "sha256": "9307e9f96d4469deab7f41efec7bbc73978261ad638e75ecf056b5018899a608"
+  },
+  {
+    "path": "tests/agreement-preview.html",
+    "bytes": 7984,
+    "sha256": "b79928c368888147bb01f070efdf1e5a76e518ef55666f8474e0279a9fa041ea"
+  },
+  {
+    "path": "tests/auth-ocr-flow.test.cjs",
+    "bytes": 2048,
+    "sha256": "e0c5afaff1fd043024b8a2dd1f3f29e25d6c31b9d483e7c6b8e5de279ffd1277"
+  },
+  {
+    "path": "tests/awards-preview.html",
+    "bytes": 30059,
+    "sha256": "b8ef3d13ef905e255f4b6d546b8063b78014ade6e7402e9b29f2415b6ace922d"
+  },
+  {
+    "path": "tests/awards.test.cjs",
+    "bytes": 1781,
+    "sha256": "1b50de6dfe895096d0cc939d06e921a37d090d4bf9e965e85580159f16293611"
+  },
+  {
+    "path": "tests/carousel.test.cjs",
+    "bytes": 2360,
+    "sha256": "f061c2406b3857801298ac6039c5b38debfc0d75ec48bf262c0e1dc1aae1eb8f"
+  },
+  {
+    "path": "tests/catalog-preview.html",
+    "bytes": 28405,
+    "sha256": "9e5cf9a4b871786738ee939559765a4e526285d87c69ae39c883baeac96877e2"
+  },
+  {
+    "path": "tests/chat-risk-preview.html",
+    "bytes": 23659,
+    "sha256": "af044fe3bb9f07657c5df1a8032794d0790d889f6946fb122f765d7f298d1da7"
+  },
+  {
+    "path": "tests/chat-warning.test.cjs",
+    "bytes": 1366,
+    "sha256": "86ddebd412239659115ec9ea8c472588759ad745631d76e80a2fd425549cd3cc"
+  },
+  {
+    "path": "tests/deletion-preview.html",
+    "bytes": 30439,
+    "sha256": "fcb3b900cfb434dc05c9523c16e511b726bbb286ee7a3d753f2aea3e24640fc2"
+  },
+  {
+    "path": "tests/ocr-engine-lifecycle.test.cjs",
+    "bytes": 1450,
+    "sha256": "9d0cd2b09a0a70e4bd8edea12f7b5e6bc8f6507d207e636873f854f639fba19e"
+  },
+  {
+    "path": "tests/price-comparison-preview.html",
+    "bytes": 29401,
+    "sha256": "cb7ad3da545a0de9e247eee88cf467198d00a78f3fbe24fb8f4bddb28a3827a4"
+  },
+  {
+    "path": "tests/price-risk.test.cjs",
+    "bytes": 2090,
+    "sha256": "73c70f38353a38e6f1d046d6ac7afeabd7c991a672b59bececa501455375a81a"
+  },
+  {
+    "path": "tests/product-deletion.test.cjs",
+    "bytes": 1822,
+    "sha256": "cb9e0e8d629a246dc525e1bd2ebab1c87c241782103a716992a20b4793435426"
+  },
+  {
+    "path": "tests/receipt-preview.html",
+    "bytes": 7078,
+    "sha256": "35d046ee854096baf3ade3b4165225baabe0ec8feff576b45c0f14b2cc3c24ac"
+  },
+  {
+    "path": "tests/report-preview.html",
+    "bytes": 28734,
+    "sha256": "b584a5cf94f2b727be63507ba6d0f963e633c77e418b8622f4d618e7c1a1416c"
+  },
+  {
+    "path": "tests/sample-catalog.test.cjs",
+    "bytes": 2800,
+    "sha256": "c8395a8346346ad3a412c12a3868794d2d816c306974391a6cede1cd7d5547b2"
+  },
+  {
+    "path": "tests/sold-status-preview.html",
+    "bytes": 36780,
+    "sha256": "86cf9bbfe82144c51fcdedff82c20a3ff67bfca27691321d1e277aa3d6b84479"
+  },
+  {
+    "path": "tests/sold-status.test.cjs",
+    "bytes": 3751,
+    "sha256": "324d0aabd22e2aa0dcd34b2d9306ed2ea93d2b37381122ab7c24c49a50c9015f"
+  },
+  {
+    "path": "tests/student-ocr.test.cjs",
+    "bytes": 1372,
+    "sha256": "bff14c9e1c7249a72533b87e66c37b77b8b97ecf568c8ab2fe603a519186b4bf"
+  },
+  {
+    "path": "tests/trade-flow-preview.html",
+    "bytes": 33873,
+    "sha256": "7c432f27b0867eac34c684f7d0be776983138d6ec61fb37862d0392b834e982e"
+  },
+  {
+    "path": "tests/trade-flow.test.cjs",
+    "bytes": 3928,
+    "sha256": "171fcdcabd49c595a55c6043c4a217ed55cd90b051bfafba1ebebbc893064f67"
+  },
+  {
+    "path": "tests/wallet-preview.html",
+    "bytes": 29384,
+    "sha256": "5aa809707669361b13beabe92488d279b0e2a4375eb6c82a37d7e2ad57969ae4"
+  },
+  {
+    "path": "tools/check.cjs",
+    "bytes": 1357,
+    "sha256": "65e8f26900e90c49e285e0b48de5526c5e9f8b4bc630b5884edee11f1420d3fa"
+  },
+  {
+    "path": "tools/serve.cjs",
+    "bytes": 1771,
+    "sha256": "717656a2d09e0a1048aca042a84dccee0f1fc61a2cf31f118584f10febb61e0a"
+  },
+  {
+    "path": "tools/serve.py",
+    "bytes": 1213,
+    "sha256": "0671c8a9743cb83e62e5c04e501d852fdf409682249372915b53ba4a9e98d70f"
+  },
+  {
+    "path": "training/README.md",
+    "bytes": 914,
+    "sha256": "c0f2cfbd51eab2133eee4c5076cbd4a9a0a6cc4224df8714d3c94d5773838f71"
+  },
+  {
+    "path": "training/build_ocr_bundle.py",
+    "bytes": 760,
+    "sha256": "41f59552ddb39139c9014ba451031da3ba103824515ff355a2eb438af86758c0"
+  },
+  {
+    "path": "training/extract_features.cjs",
+    "bytes": 285,
+    "sha256": "fe344af6ab83b0e8c048b2a5320f78f44be4bbddd4c0ebb5ce5d0d3aa4bbdbcd"
+  },
+  {
+    "path": "training/price-scenarios.json",
+    "bytes": 487,
+    "sha256": "c3ef5d1ed508d81b405b453978b203b0e1e548a52dd64cd805333ca73e73a7fb"
+  },
+  {
+    "path": "training/requirements.txt",
+    "bytes": 33,
+    "sha256": "557c8b89ca6b2a7541f822e6c035ee8eb52c0eeae56eddaed718733b5f7e2dba"
+  },
+  {
+    "path": "training/scenarios.json",
+    "bytes": 4025,
+    "sha256": "7dc1cb43c2065e29b741145d64e1929987425fa298f6d3b2536ecb403b582e64"
+  },
+  {
+    "path": "training/train_model.py",
+    "bytes": 7721,
+    "sha256": "5cb7cda3d214cc6b13e1473ce7be8fe08a308e9055b13659f5b1313e412702c6"
+  },
+  {
+    "path": "training/train_price_model.py",
+    "bytes": 4937,
+    "sha256": "b227c4a55d2f0a338d0a38cde25f21e931325b5f6766d174e2dd00b00bf5e23f"
+  },
+  {
+    "path": "vendor/tesseract/LICENSE.md",
+    "bytes": 11357,
+    "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+  },
+  {
+    "path": "vendor/tesseract/README.md",
+    "bytes": 923,
+    "sha256": "48cee5c953f25ff242b72524443c28af5df58887c537d723e37bfca04acb850a"
+  },
+  {
+    "path": "vendor/tesseract/checksums.json",
+    "bytes": 2099,
+    "sha256": "22a46a8270f34f58b7a0f6ba9f7ba4c91262ec6e801f3be11754caec6adad6f3"
+  },
+  {
+    "path": "vendor/tesseract/core/LICENSE",
+    "bytes": 11358,
+    "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-lstm.wasm",
+    "bytes": 2855361,
+    "sha256": "66b17df6e20c5329a17ffa9c202a47eaa3e32500b253d4c7f38e7f2bc01457c3"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-lstm.wasm.js",
+    "bytes": 3896484,
+    "sha256": "eef5f8b2f8e20e150680b20adaec4a60babafee3adbe8a94583c81fee46e8680"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-relaxedsimd-lstm.wasm",
+    "bytes": 2862266,
+    "sha256": "7985c92d4c64e7267d24cadffe1b2a1da6bf8aa55fdcaf953fe94fe122a24545"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-relaxedsimd-lstm.wasm.js",
+    "bytes": 3905767,
+    "sha256": "861a536cf9ef8e63cb644d57bab39c388f37f7d6b6f60024b741c5f6b39a59b3"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-relaxedsimd.wasm",
+    "bytes": 3456075,
+    "sha256": "45f8c9b516df326b6ae6b493ed3a6289df5cbd10490e7b6ff8bf5b12ea42d1da"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-relaxedsimd.wasm.js",
+    "bytes": 4697227,
+    "sha256": "843074aa5bad1cc6421b74a86201768ced9f244795e4d81435435a61a40ce535"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-simd-lstm.wasm",
+    "bytes": 2857601,
+    "sha256": "34e8d50cac216427d86bf397d610fdd9f49492539bbcdfbfccc4eda20c810bea"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-simd-lstm.wasm.js",
+    "bytes": 3899472,
+    "sha256": "c58b46a4c796c0b8afccf77591d5b875b6896b45d402bbce8caa6f5362447b38"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-simd.wasm",
+    "bytes": 3451410,
+    "sha256": "7d237a13edfeb0fa2f104744fccde0a00e0c076c3e23b7a8fc7af75ec9af2c3e"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core-simd.wasm.js",
+    "bytes": 4690932,
+    "sha256": "6b61ef4e911b5cf57e656bbfe983d6e2b3711a02dd164154ddda064566e8e09d"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core.wasm",
+    "bytes": 3449168,
+    "sha256": "c7f5ace62ac0ad065e71e9c6725f1d7cdf82e7eda8fba532cbb9563964da7098"
+  },
+  {
+    "path": "vendor/tesseract/core/tesseract-core.wasm.js",
+    "bytes": 4687944,
+    "sha256": "0bc6ce3e5fbbd0cd89706cf2fd70960e3372f4f01ee24265b26990808aaeb286"
+  },
+  {
+    "path": "vendor/tesseract/embedded-kor.js",
+    "bytes": 2096484,
+    "sha256": "f17706e9278950ef37417b66a1b33a6440dbb5591c281bb17ce62109f49e6247"
+  },
+  {
+    "path": "vendor/tesseract/embedded-worker.js",
+    "bytes": 4011090,
+    "sha256": "7358515f9ce879581b18bdeef6a1664d4ab1cf280b95d8d9389b076b67a0c0e3"
+  },
+  {
+    "path": "vendor/tesseract/lang/eng.traineddata.gz",
+    "bytes": 2952873,
+    "sha256": "45b4cb346724ac1774f1c36f42f182b887bcdb28ebe63e6fff90ac41f3fcff91"
+  },
+  {
+    "path": "vendor/tesseract/lang/kor.traineddata.gz",
+    "bytes": 1572336,
+    "sha256": "78c21276ab14c9bb734d83be1055d9fe5469a4e7e977c51ad385be5737e61126"
+  },
+  {
+    "path": "vendor/tesseract/tesseract.min.js",
+    "bytes": 62961,
+    "sha256": "000c27d9cd0def655f77b36c72a389c0ab13793aa31cb4d7aab56d09c0afbc7e"
+  },
+  {
+    "path": "vendor/tesseract/worker.min.js",
+    "bytes": 111307,
+    "sha256": "576b7df7e3393e137e51849357c9adb53fe7ac1bb69bfa06cf3d61520f182c6d"
+  },
+  {
+    "path": "검증결과.md",
+    "bytes": 1723,
+    "sha256": "c22ed3a12a4e6968bed7eab6d0d0f0a961b3588f1902d7ea90691a1fd5d1b49f"
+  },
+  {
+    "path": "모델학습전체/price-evaluation.json",
+    "bytes": 1777,
+    "sha256": "d5919467aa17bb26c1ade715e49167e450e810461ae61b6909b010de5e6435fa"
+  },
+  {
+    "path": "모델학습전체/price-parity-fixtures.json",
+    "bytes": 2999,
+    "sha256": "668487a19dadc75e848f6733eefbda188ae3df5afeb35aea717bb600742283b4"
+  },
+  {
+    "path": "모델학습전체/price-risk-model.js",
+    "bytes": 19152,
+    "sha256": "d34341bf4b88949393fa637ca8e1fa4de8ebae3290ca4d949565b3f06c3a4d7d"
+  },
+  {
+    "path": "모델학습전체/price-risk-model.json",
+    "bytes": 19122,
+    "sha256": "41cb239d809378f4be82f5aa4d9b31877060333f34c06c822e349c09196673e1"
+  },
+  {
+    "path": "모델학습전체/price-risk.js",
+    "bytes": 1480,
+    "sha256": "878e753c77204302a4e586a7a6b9e1bf72a37a30af1a9a17a994d43fcf493112"
+  },
+  {
+    "path": "모델학습전체/price-training-data.csv",
+    "bytes": 27377,
+    "sha256": "d3ee7a438f08e88f24e402d82faeda6d561848e4bfdceb0cc6d45bd3a9271f13"
+  },
+  {
+    "path": "모델학습전체/reference-catalog.js",
+    "bytes": 4540,
+    "sha256": "8c7c6dbed3c92f851ff795a431231a0b7e3fd8457d70280211c283700dc0445e"
+  },
+  {
+    "path": "모델학습전체/reference-prices.js",
+    "bytes": 692,
+    "sha256": "dad5aea4131a1785de01efc37c0f3142e0edd257a591b576e57b59f4a6fa8395"
+  },
+  {
+    "path": "모델학습전체/reference-products.json",
+    "bytes": 5266,
+    "sha256": "568ac611098cc48bd73d088c46a2f55c82faab54bb8dc82fee996d703dd6eae3"
+  },
+  {
+    "path": "모델학습전체/requirements.txt",
+    "bytes": 33,
+    "sha256": "557c8b89ca6b2a7541f822e6c035ee8eb52c0eeae56eddaed718733b5f7e2dba"
+  },
+  {
+    "path": "모델학습전체/test_model.cjs",
+    "bytes": 1576,
+    "sha256": "21542fa685f9cf2e8621f2ff64c0de9855bda176d3fc17bf44512c9a3a8f71c1"
+  },
+  {
+    "path": "모델학습전체/train_model.py",
+    "bytes": 4907,
+    "sha256": "c3a15f78e6efc2a055d286caf8df90589ea970b43894311e2758a5a07db712b0"
+  },
+  {
+    "path": "모델학습전체/실행방법.md",
+    "bytes": 3075,
+    "sha256": "d0bdeb2cefdf5882526994d27d657be33cd9f721aa05d3ee5983e5a8247aee02"
+  },
+  {
+    "path": "브랜드디자인.md",
+    "bytes": 8791,
+    "sha256": "d0ea6abad6176cb8e529e4f0ebf366c49f651277716270cf73dc8a86db63799e"
+  },
+  {
+    "path": "속지마켓.code-workspace",
+    "bytes": 132,
+    "sha256": "287e7c9c980ac99003882db594af2425cb3986b579b5c890cdc10b3ffc24daf5"
+  },
+  {
+    "path": "전체개발안내.md",
+    "bytes": 13781,
+    "sha256": "008b039e03f5c8a9b5557af196190a8df5ab306c59a24a8ea28fa01c7df1dc19"
+  },
+  {
+    "path": "파일검증목록.json",
+    "bytes": 20199,
+    "sha256": "271e76c3c2834920f4afc938811c2385ae45027b6d61b583d8e3f159bb5421bf"
+  },
+  {
+    "path": "학생실습MD/00-공통기본틀.md",
+    "bytes": 3579,
+    "sha256": "38ee7f75cd2b5a28bfe3d04ce902ee32a2edec2281d1ac797dd3158e849c61ab"
+  },
+  {
+    "path": "학생실습MD/01-메인상품목록.md",
+    "bytes": 3077,
+    "sha256": "a686063b29436cbe905b49896e7c80a2362bd87a6dd18772ddf1c776dc2063a1"
+  },
+  {
+    "path": "학생실습MD/02-회원가입과숫자확인.md",
+    "bytes": 3258,
+    "sha256": "af5f4e6a1dba64fdd46f7c0b164368e65bce11822dee4ad5ecaa6e0c6cbd9bc2"
+  },
+  {
+    "path": "학생실습MD/03-로그인과로그아웃.md",
+    "bytes": 3075,
+    "sha256": "bd53c3a69a36af06f565c8e955247ebb22259526de8bccf7653125d42c6e7370"
+  },
+  {
+    "path": "학생실습MD/04-학교정보입력화면.md",
+    "bytes": 3110,
+    "sha256": "c061e5289b5a6546116ab3903e844d30615e415006b9abd49d3721f9cd797704"
+  },
+  {
+    "path": "학생실습MD/05-학생증OCR학교대조.md",
+    "bytes": 3754,
+    "sha256": "63ad4441a72b76cf6f8c516af3a55d535bd58293908dba679a5a0e8f600203f2"
+  },
+  {
+    "path": "학생실습MD/06-제품등록.md",
+    "bytes": 3291,
+    "sha256": "ecf5bd47c5b9623d33eb8a281ddb5081aa2fca80f5fdb622cf51c04f51a83f4a"
+  },
+  {
+    "path": "학생실습MD/07-상품상세와사진표시.md",
+    "bytes": 3469,
+    "sha256": "2ca202868beb9223552d7ff02ad7b634b4a105dd98ce3a353eb57d945eccacb4"
+  },
+  {
+    "path": "학생실습MD/08-일대일채팅.md",
+    "bytes": 3289,
+    "sha256": "dd78ed9fdfd68165962be2f1cc74c59d7bdf259372519d73c2b08db866d09190"
+  },
+  {
+    "path": "학생실습MD/09-랜덤포레스트채팅경고.md",
+    "bytes": 3501,
+    "sha256": "aa6a2f05bc350754c225a90e5df56b23c02977ebda87a97ca49aa87ee4be7d18"
+  },
+  {
+    "path": "학생실습MD/10-채팅전용가격주의.md",
+    "bytes": 3421,
+    "sha256": "bc5a9693c5b3d5350caf2f23c9f225b054814833e2bed99a5e4ee7d3002f0306"
+  },
+  {
+    "path": "학생실습MD/11-가상거래잔액.md",
+    "bytes": 5902,
+    "sha256": "deb90db76542e106104c625844e45e4b5cc5f0992fa4bdb960ea700423d88a0a"
+  },
+  {
+    "path": "학생실습MD/12-안심거래약속서.md",
+    "bytes": 5290,
+    "sha256": "47d8aaff976c762b87cdedc2de6ab858578b5cc139134c592889703597967d77"
+  },
+  {
+    "path": "학생실습MD/13-거래완료와확인증.md",
+    "bytes": 3758,
+    "sha256": "ed7776f7d2738a8c8d220f617dafdd4842fda589f57ec0bbbc871daad03cf925"
+  },
+  {
+    "path": "학생실습MD/14-상장선택과수여.md",
+    "bytes": 2549,
+    "sha256": "fa044a9ec65393b86c2755fd628458f138df257536dcee18011dd0aab264faed"
+  },
+  {
+    "path": "학생실습MD/15-신고접수와이력.md",
+    "bytes": 3477,
+    "sha256": "84f596b1c955c958bc24ee2b0954d8f51e4f45d4b4e48f8164037222a72a053e"
+  },
+  {
+    "path": "학생실습MD/16-상품삭제.md",
+    "bytes": 2172,
+    "sha256": "4564b6adce21cb85c5b37a537e73130b977498ea130c204c43ee6b1fbf8a18d0"
+  },
+  {
+    "path": "학생실습MD/17-로고아이콘과브랜드디자인.md",
+    "bytes": 8791,
+    "sha256": "d0ea6abad6176cb8e529e4f0ebf366c49f651277716270cf73dc8a86db63799e"
+  },
+  {
+    "path": "학생실습MD/18-메인안내캐러셀.md",
+    "bytes": 3613,
+    "sha256": "c8b1451ee8f32cd3b36e10c0ac8ec97e4eb9c23ec8c2bb5d71138943b6861da8"
+  },
+  {
+    "path": "학생실습MD/19-기본상품12개.md",
+    "bytes": 6022,
+    "sha256": "1234cc5be9e1f3586efef686cd822942f609b97e6571f5c525a7c785757d8125"
+  },
+  {
+    "path": "학생실습MD/20-GitHubPages배포.md",
+    "bytes": 7592,
+    "sha256": "9e710e56b0f78203e5e172a012f44be0d6a773511f49a1648b812656f538252f"
+  },
+  {
+    "path": "학생실습MD/21-거래완료상품표시.md",
+    "bytes": 4134,
+    "sha256": "e7b056ab7da4b6573deaac5f0e6807ce5c55f3bb75190269226b991ee1b0a73a"
+  },
+  {
+    "path": "학생실습MD/README.md",
+    "bytes": 533,
+    "sha256": "a1e33dd5733a63298ef467ac1b40b66b1330063a0936298a53ef3d34346e3b1f"
+  },
+  {
+    "path": "학생실습MD/적용순서.md",
+    "bytes": 4281,
+    "sha256": "e16a903b842bc02152e16ae75caa8b4798618282aea44b1fe727dc3335248128"
+  }
+]
